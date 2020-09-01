@@ -1,6 +1,6 @@
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: .5em;
+    font-size: .6.5em;
 
 }
 nav ul, footer ul {
@@ -44,3 +44,6 @@ ul.posts li {
     list-style: none;
 }
 
+img {
+  border-radius: 50%;
+}
