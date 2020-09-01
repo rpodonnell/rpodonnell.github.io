@@ -1,7 +1,7 @@
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-     margin: 60px auto;
-    width: 70%;
+    font-size: .8em;
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -44,17 +44,3 @@ ul.posts li {
     list-style: none;
 }
 
-.circular--landscape {
-  display: inline-block;
-  position: relative;
-  width: 200px;
-  height: 200px;
-  overflow: hidden;
-  border-radius: 50%;
-}
-
-.circular--landscape img {
-  width: auto;
-  height: 100%;
-  margin-left: -50px;
-}
