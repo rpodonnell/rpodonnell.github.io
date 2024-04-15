@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla 
+  image: rpodonnell.png
+  image-width: 25em
+  links:
+    - icon: twitter
+      text: rpodonnell_ 
+      href: https://twitter.com/rpodonnell_
+    - icon: linkedin 
+      text: LinkedIn 
+      href: https://twitter.com/rpodonnell_
+    - icon: journal 
+      text: ORCiD 
+      href: https://twitter.com/rpodonnell_
+    - icon: github
+      text: GitHub
+      href: https://github.com/rpodonnell
+    - icon: envelope
+      text: Email
+      href: mailto:ryan.odonnell@anu.edu.au
+---
+
+**Ryan P. O'Donnell**<br>
+Plant & Fungal Evolutionary Biologist<br>
+&<br>
+Science Communicator

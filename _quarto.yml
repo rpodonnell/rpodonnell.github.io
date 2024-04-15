@@ -1,0 +1,63 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
+
+website:
+  title: "Ryan P. O'Donnell"
+  site-url: "https://rpodonnell.github.io"
+  search: false
+  navbar:
+    background: "#FFFFFF"
+    left:
+      - icon: house-door
+        text: Home
+        href: index.qmd
+      - icon: file-person 
+        text: About
+        href: about/index.qmd
+      - icon: book 
+        text: Publications
+        href: publications/index.qmd
+      - icon: file-earmark-text
+        text: CV 
+        href: cv/index.qmd 
+      - sidebar:gallery
+ 
+  sidebar:
+   - id: gallery
+     title: "Gallery"
+     #     style: "docked"
+     background: light
+     collapse-level: 2
+     contents:
+          - text: Illustrations
+            href: illustrations/index.qmd
+          - text: Photography 
+            href: photography/index.qmd
+          - text: Graphic Design 
+            href: design/index.qmd
+
+  page-footer:
+    right:
+      - icon: envelope 
+        href: mailto:ryan.odonnell@anu.edu.au 
+      - icon: github
+        href: https://github.com/rpodonnell
+      - icon: twitter
+        href: https://twitter.com/rpodonnell_
+    background: "#FFFFFF"
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: flatly 
+    css: styles.css
+    toc: false 
+    html-math-method: katex
+    include-in-header:
+      file: header.html
+

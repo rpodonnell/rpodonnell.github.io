@@ -1,0 +1,47 @@
+<!-- ################# -->
+<!-- --- -->
+<!-- listing: -->
+<!--   contents: . -->
+<!--   template: pubs.ejs -->
+<!--   sort: "date desc" -->
+<!--   categories: false -->
+<!--   sort-ui: [date, title, author] -->
+<!--   filter-ui: [date, title, author, details] -->
+<!--   date-format: "YYYY" -->
+<!--   page-size: 50 -->
+<!-- sidebar: false -->
+<!-- page-layout: full -->
+<!-- title-block-banner: false -->
+<!-- --- -->
+
+# Publications
+
+## Peer-Reviewed Publications
+
+### First-Author
+
+[**O’Donnell RP**, Bruhl JJ, Telford IR, Wilson TC, Zimmer H, Taseski GM, Andrew RL (2023) Molecular and morphological analyses support recognition of *Prostanthera volucris* (Lamiaceae), a new species from the Central Tablelands of New South Wales. *Australian Systematic Botany* 36, 1:1–20. doi:10.1071/SB22017.](https://doi.org/10.1071/SB22017)
+
+[**O’Donnell RP**, Wilson TC, Andrew RL, Telford IR, Taseski GM, Zimmer H, Bruhl JJ (2021) Molecular phylogenetic analysis of the *Prostanthera phylicifolia* (Lamiaceae) assemblage resolves relationships of the ’Critically Endangered’ *P. gilesii* and other putative new species. *Telopea* 24, 359–375. doi:10.7751/telopea15561.](https://doi.org/10.7751/telopea15561)
+
+### Co-Author
+
+[Hyde KD ... Zucconi L (2023) Global consortium for the classification of fungi and fungus-like taxa. *Mycosphere* 14, 1:1960–2012. doi:10.5943/mycosphere/14/1/23.](https://www.mycosphere.org/pdf/MYCOSPHERE_14_1_23-1.pdf)
+
+## Preprints
+
+[**O’Donnell RP**, Bruhl JJ, Telford IR, Wilson TC, Zimmer H, Taseski GM, Andrew RL (accepted 2023) Molecular and morphological analyses support recognition of *Prostanthera volucris* (Lamiaceae), a new species from the Central Tablelands of New South Wales. doi:doi.org/10.1101/2021.12.21.473648.](https://doi.org/10.1101/2021.12.21.473648)
+
+## Other Publications
+
+[**O’Donnell RP** (2022) Book Review: Presenting Science Concisely - Bruce Kirchoff. Australasian Systematic Botany Society Newsletter. 190: 27–28.](https://asbs.org.au/newsletter/pdf/22-mar-190.pdf)
+
+[**O’Donnell RP** (2022) *Love Thy Neighbour* Science Write Now #6: Natural History and Historians](https://www.sciencewritenow.com/essays-craft-memoir/love-thy-neighbour)
+
+[**O’Donnell RP** (2021) *Love Thy Neighbour* Boundless Writers Festival 2021](https://www.sciencewritenow.com/essays-craft-memoir/love-thy-neighbour)
+
+[**O’Donnell RP** (2021) Selling systematics with storytelling: solving taxonomy’s marketing problem. Australasian Systematic Botany Society Newsletter. 188: 29–30.](https://www.asbs.org.au/newsletter/pdf/21-sep-188.pdf)
+
+[**O’Donnell RP** (2012) *John A Douglas - Body Fluid - The Seven Cycles* Exhibition essay - Chalkhorse Gallery](https://rpodonnell.github.io/cv/JAD_BODY_FLUIDfinal.pdf)
+
+[**O’Donnell RP** (2012) *James Oram - Moments of Must Have* Exhibition essay - Chalkhorse Gallery](https://rpodonnell.github.io/cv/JamesOramMomentsofmusthave_RS.pdf)
