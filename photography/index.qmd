@@ -1,2 +1,38 @@
 # Photography 
 
+![](macrosepala_complex.png)
+
+::: {layout-ncol=2}
+![](calochilus_01.JPG)
+
+![](calochilus_02.JPG)
+:::
+
+![](pterostylis_squamata.jpg)
+
+::: {layout-ncol=2}
+![](diplodium.JPG)
+
+![](pterostylis_daintreana_02.JPG)
+:::
+
+::: {layout-ncol=2}
+![](diuris_01.jpg)
+
+![](cyanicula.JPG)
+:::
+
+::: {layout-ncol=2}
+![](prostanthera_aff_crocodyloides_02.JPG)
+
+![](prostanthera_aff_crocodyloides_01.JPG)
+:::
+
+
+::: {layout-ncol=2}
+![](speculantha_01.JPG)
+
+![](pterostylis_cycnocephala.JPG)
+:::
+
+![](pterostylis_plumosa.JPG)
