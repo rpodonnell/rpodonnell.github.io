@@ -26,7 +26,7 @@
 
 ### Co-Author
 
-[Hyde KD ... Zucconi L (2023) Global consortium for the classification of fungi and fungus-like taxa. *Mycosphere* 14, 1:1960–2012. doi:10.5943/mycosphere/14/1/23.](https://www.mycosphere.org/pdf/MYCOSPHERE_14_1_23-1.pdf) . Associated Outline of Fungi Note is available here: [Outline of Fungi - Note 994 *Ceratobasidiaceae*](https://www.outlineoffungi.org/pdf/Outlineoffungi.org%20-%20Note%20994%20Ceratobasidiaceae.pdf)
+[Hyde KD ... Zucconi L (2023) Global consortium for the classification of fungi and fungus-like taxa. *Mycosphere* 14, 1:1960–2012. doi:10.5943/mycosphere/14/1/23.](https://www.mycosphere.org/pdf/MYCOSPHERE_14_1_23-1.pdf) 
 
 ## Manuscripts In Review 
 
@@ -34,7 +34,7 @@
 
 **O’Donnell RP**, Linde CC, May TW (2024) Rise up, *Rhizoctonia*: moving to one fungus, one name in the Ceratobasidiaceae (Agaricomycetes; Cantharellales). *Persoonia*. 
 
-**O’Donnell RP**, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) Discordance Down Under: Combining phylogenomics & fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. *Systematic Biology*. 
+**O’Donnell RP**, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) *Discordance Down Under*: Combining phylogenomics & fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. *Systematic Biology*. 
 
 ## Preprints
 
