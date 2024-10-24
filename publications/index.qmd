@@ -28,6 +28,14 @@
 
 [Hyde KD ... Zucconi L (2023) Global consortium for the classification of fungi and fungus-like taxa. *Mycosphere* 14, 1:1960–2012. doi:10.5943/mycosphere/14/1/23.](https://www.mycosphere.org/pdf/MYCOSPHERE_14_1_23-1.pdf) . Associated Outline of Fungi Note is available here: [Outline of Fungi - Note 994 *Ceratobasidiaceae*](https://www.outlineoffungi.org/pdf/Outlineoffungi.org%20-%20Note%20994%20Ceratobasidiaceae.pdf)
 
+## Manuscripts In Review 
+
+### First-Author
+
+**O’Donnell RP**, Linde CC, May TW (2024) Rise up, *Rhizoctonia*: moving to one fungus, one name in the Ceratobasidiaceae (Agaricomycetes; Cantharellales). *Persoonia*. 
+
+**O’Donnell RP**, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) Discordance Down Under: Combining phylogenomics & fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. *Systematic Biology*. 
+
 ## Preprints
 
 [**O’Donnell RP**, Bruhl JJ, Telford IR, Wilson TC, Zimmer H, Taseski GM, Andrew RL (accepted 2023) Molecular and morphological analyses support recognition of *Prostanthera volucris* (Lamiaceae), a new species from the Central Tablelands of New South Wales. doi:doi.org/10.1101/2021.12.21.473648.](https://doi.org/10.1101/2021.12.21.473648)
