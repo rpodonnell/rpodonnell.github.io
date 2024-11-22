@@ -20,11 +20,15 @@
 
 ### First-Author
 
+**O’Donnell RP**, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) *Discordance Down Under*: Combining phylogenomics & fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. In press, *Systematic Biology*. 
+
 [**O’Donnell RP**, Bruhl JJ, Telford IR, Wilson TC, Zimmer H, Taseski GM, Andrew RL (2023) Molecular and morphological analyses support recognition of *Prostanthera volucris* (Lamiaceae), a new species from the Central Tablelands of New South Wales. *Australian Systematic Botany* 36, 1:1–20. doi:10.1071/SB22017.](https://doi.org/10.1071/SB22017)
 
 [**O’Donnell RP**, Wilson TC, Andrew RL, Telford IR, Taseski GM, Zimmer H, Bruhl JJ (2021) Molecular phylogenetic analysis of the *Prostanthera phylicifolia* (Lamiaceae) assemblage resolves relationships of the ’Critically Endangered’ *P. gilesii* and other putative new species. *Telopea* 24, 359–375. doi:10.7751/telopea15561.](https://doi.org/10.7751/telopea15561)
 
 ### Co-Author
+
+[Hyde KD ... Zvyagina E (2024) The 2024 Outline of Fungi and fungus-like taxa. *Mycosphere* 15, 1:5146–6239. doi:10.5943/mycosphere/15/1/25.](https://www.mycosphere.org/pdf/MYCOSPHERE_15_1_25.pdf)
 
 [Hyde KD ... Zucconi L (2023) Global consortium for the classification of fungi and fungus-like taxa. *Mycosphere* 14, 1:1960–2012. doi:10.5943/mycosphere/14/1/23.](https://www.mycosphere.org/pdf/MYCOSPHERE_14_1_23-1.pdf) 
 
@@ -33,8 +37,6 @@
 ### First-Author
 
 **O’Donnell RP**, Linde CC, May TW (2024) Rise up, *Rhizoctonia*: moving to one fungus, one name in the Ceratobasidiaceae (Agaricomycetes; Cantharellales). *Persoonia* - in revision. 
-
-**O’Donnell RP**, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) *Discordance Down Under*: Combining phylogenomics & fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. *Systematic Biology* - re-submitted. 
 
 ## Preprints
 

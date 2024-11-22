@@ -5,8 +5,8 @@ about:
   image-width: 25em
   links:
     - icon: twitter
-      text: rpodonnell_ 
-      href: https://twitter.com/rpodonnell_
+      text: rpodonnell.bsky.social 
+      href: https://bsky.app/profile/rpodonnell.bsky.social
     - icon: linkedin 
       text: LinkedIn 
       href: https://twitter.com/rpodonnell_
