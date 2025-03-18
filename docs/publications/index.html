@@ -54,6 +54,22 @@ ul.task-list li input[type="checkbox"] {
 <script src="https://kit.fontawesome.com/0fba9333d8.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -152,7 +168,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-Reviewed Publications</h2>
 <section id="first-author" class="level3">
 <h3 class="anchored" data-anchor-id="first-author">First-Author</h3>
-<p><a href="https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syae070/7918489?utm_source=authortollfreelink&amp;utm_campaign=sysbio&amp;utm_medium=email&amp;guestAccessKey=18bacc24-7f10-439a-94f4-3030811184af"><strong>O’Donnell RP</strong>, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) <em>Discordance Down Under</em>: Combining phylogenomics &amp; fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. <em>Systematic Biology</em>, syae070. doi:10.1093/sysbio/syae070</a></p>
+<p><strong>O’Donnell RP</strong>, Linde CC, May TW (in press) Rise up, <em>Rhizoctonia</em>: moving to one fungus, one name in the Ceratobasidiaceae (Agaricomycetes; Cantharellales). <em>Persoonia</em>.</p>
+<p><a href="https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syae070/7918489?utm_source=authortollfreelink&amp;utm_campaign=sysbio&amp;utm_medium=email&amp;guestAccessKey=18bacc24-7f10-439a-94f4-3030811184af"><strong>O’Donnell RP</strong>, Wong DJ, Peakall R, Phillips RD, Linde CC (2024) <em>Discordance Down Under</em>: Combining phylogenomics &amp; fungal symbioses to detangle difficult nodes in a diverse tribe of Australian terrestrial orchids. <em>Systematic Biology</em>, syae070. doi:10.1093/sysbio/syae070.</a></p>
 <p><a href="https://doi.org/10.1071/SB22017"><strong>O’Donnell RP</strong>, Bruhl JJ, Telford IR, Wilson TC, Zimmer H, Taseski GM, Andrew RL (2023) Molecular and morphological analyses support recognition of <em>Prostanthera volucris</em> (Lamiaceae), a new species from the Central Tablelands of New South Wales. <em>Australian Systematic Botany</em> 36, 1:1–20. doi:10.1071/SB22017.</a></p>
 <p><a href="https://doi.org/10.7751/telopea15561"><strong>O’Donnell RP</strong>, Wilson TC, Andrew RL, Telford IR, Taseski GM, Zimmer H, Bruhl JJ (2021) Molecular phylogenetic analysis of the <em>Prostanthera phylicifolia</em> (Lamiaceae) assemblage resolves relationships of the ’Critically Endangered’ <em>P. gilesii</em> and other putative new species. <em>Telopea</em> 24, 359–375. doi:10.7751/telopea15561.</a></p>
 </section>
@@ -166,7 +183,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="manuscripts-in-review">Manuscripts In Review</h2>
 <section id="first-author-1" class="level3">
 <h3 class="anchored" data-anchor-id="first-author-1">First-Author</h3>
-<p><strong>O’Donnell RP</strong>, Linde CC, May TW (2024) Rise up, <em>Rhizoctonia</em>: moving to one fungus, one name in the Ceratobasidiaceae (Agaricomycetes; Cantharellales). <em>Persoonia</em> - revision submitted December 2024.</p>
+<p>John EG<span class="math inline">^†</span>, <strong>O’Donnell RP</strong><span class="math inline">^†</span>, Perkins J, Rubial M, Peakall R, Wong DCJ (under review - Molecular Biology and Evolution) Once in a blue moon: phylotranscriptomics reveals the unusual genetic basis of blue floral colour in the terrestrial orchid subtribe Caladeniinae (Diurideae; Orchidaceae).</p>
+<p><span class="math inline">^†</span>Shared co-first authors.</p>
 </section>
 </section>
 <section id="preprints" class="level2">
