@@ -24,5 +24,5 @@ about:
       href: mailto:ryan.odonnell@anu.edu.au
 ---
 
-**Ryan P. O'Donnell**<br>
-Plant & Fungal Evolutionary Biologist | Science Communicator
+**Dr Ryan P. O'Donnell**<br>
+Mycologist | Botanist | Evolutionary Biologist | Science Communicator
